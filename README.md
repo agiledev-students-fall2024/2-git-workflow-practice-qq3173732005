@@ -5,3 +5,5 @@
 This article reports that Google and Apple have failed to overturn rulings made against them by the EU, Apple for evading taxes in Ireland and Google for directing its search engine users to its own shopping service over other search results.
 
 I found this interesting because the decline of Google as a useful search engine has been a well-known and frustrating phenomenon for some years now. While the factors involved go well beyond Google Shopping, I'm hopeful that it could be a start towards reversing the trend by discouraging practices that contribute to it.
+
+*   This is an interesting article! Google and Apple have always been one of the top tech companies, but it is surprising to know that they are controlling the search enginees and envading fines. Search engines are used by everyone, and this issue would hugely influence these users. While technology has a lot of benefits, there may also be a side that is unknown to people. -Jennifer Yu
